@@ -1,1 +1,2 @@
 https://kaviyat8626-travelplanner-main-eqmzt2.streamlit.app
+https://trip-plan-ui.onrender.com
