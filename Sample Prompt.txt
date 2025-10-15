@@ -1,0 +1,32 @@
+Category 1: Simple, Direct Trips
+These are straightforward A-to-B requests that test the core functionality.
+"A road trip from Mumbai to Goa with some nice beach stops."
+"Driving from Bangalore to Coorg, suggest some good places for coffee and nature viewpoints."
+"Plan a one-day trip from Delhi to Agra to see the Taj Mahal and other major sights."
+"What's the best route from Chennai to Pondicherry along the East Coast Road with recommendations for food?"
+Category 2: Trips with a Specific Theme or Interest
+These prompts test the AI's ability to understand context and prioritize certain types of stops.
+Spiritual/Religious:
+"I want to do a spiritual journey from Haridwar to Rishikesh, focusing on ashrams and temples."
+"Plan a pilgrimage from Madurai to Rameswaram, including the most important Hindu temples."
+Historical:
+"A historical tour of Rajasthan, starting from Jaipur, going to Jodhpur, and ending in Udaipur."
+"Suggest a route that covers the ancient Buddhist circuit in Bihar, starting from Patna."
+Nature/Adventure:
+"An adventurous bike trip from Manali to Leh, with suggestions for scenic overnight stops."
+"Plan a monsoon getaway from Pune to Mahabaleshwar, focusing on waterfalls and scenic viewpoints."
+Category 3: Trips with Constraints
+These prompts test the integration with your advanced settings (budget, number of people) and the AI's ability to factor them in.
+Budget Constraint:
+"A budget-friendly backpacking trip for 2 people from Kolkata to Darjeeling." (Tests "Budget" and num_people=2)
+"Plan a luxury weekend getaway for a couple from Delhi to Jaipur, with suggestions for 5-star hotels and fine dining." (Tests "Luxury" and num_people=2)
+Family Constraint:
+"A family-friendly road trip for 4 people with kids from Hyderabad to Hampi. Suggest places that are interesting for children."
+Time Constraint:
+"I only have one day to get from Ahmedabad to the Rann of Kutch and back. What are the absolute must-see spots?"
+Category 4: Voice-Optimized Prompts (How a user might actually speak)
+These are shorter, more natural phrases perfect for testing your voice input feature.
+"Hey, plan a trip from Mumbai to Lonavala for this weekend."
+"Get me a food tour from Delhi to Amritsar."
+"I need a cheap way to get from Bangalore to Ooty by road."
+"Show me the fastest route to Jaipur with a stop for lunch."
